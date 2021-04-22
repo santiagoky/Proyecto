@@ -1,0 +1,27 @@
+
+.border{
+    border: 5px solid black;
+}
+
+.ml-40{
+    margin-left: 10px;
+}
+
+.mr-40{
+    margin-right: 10px;
+}
+
+.img{
+
+    object-fit: cover;
+}
+
+.tec{
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
+.row{
+    --bs-gutter-x: 0;
+    justify-content: space-evenly !important;
+}
